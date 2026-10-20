@@ -1,0 +1,25 @@
+{
+  "project": "FinResilience AI",
+  "score_definition": "100 * (1 - calibrated stress probability)",
+  "target": "TARGET",
+  "threshold": 0.10587531123103444,
+  "scored_applicants": 61503,
+  "mean_resilience_score": 91.93349673002936,
+  "median_resilience_score": 94.11436676101403,
+  "mean_stress_probability": 0.0806650326997064,
+  "observed_stress_rate": 0.08072776937710356,
+  "pr_auc": 0.20622236019637097,
+  "roc_auc": 0.7249578953341971,
+  "brier_score": 0.07025504261309277,
+  "precision": 0.2114333753678016,
+  "recall": 0.4052366565961732,
+  "f1": 0.27788136178440714,
+  "risk_band_counts": {
+    "Lower estimated stress": 50942,
+    "Moderate estimated stress": 8740,
+    "Elevated estimated stress": 1480,
+    "Higher estimated stress": 341
+  },
+  "test_partition_used_for_model_tuning": false,
+  "test_partition_used_for_threshold_selection": false
+}

@@ -1,0 +1,7 @@
+feature_group,model,PR_AUC,ROC_AUC
+A_conventional,Logistic Regression,0.0956961592242011,0.5829635235005894
+A_conventional,Random Forest,0.10168637521491435,0.6220826305374267
+A_conventional,XGBoost,0.1293631742457525,0.6719338463984706
+B_conventional_plus_behavioural,Logistic Regression,0.3199801939492404,0.7858250337720623
+B_conventional_plus_behavioural,Random Forest,0.3212942523840764,0.8310028910577638
+B_conventional_plus_behavioural,XGBoost,0.3599748280888428,0.847743946082285

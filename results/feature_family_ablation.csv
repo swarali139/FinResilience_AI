@@ -1,0 +1,6 @@
+condition,removed_family,validation_PR_AUC
+All Group B features,None,0.20164374333772583
+Without Other behavioural features,Other behavioural features,0.20113563144148877
+Without Installment behaviour,Installment behaviour,0.19880300760408154
+Without Credit-card behaviour,Credit-card behaviour,0.19876616198920022
+Without Bureau behaviour,Bureau behaviour,0.18344097902641468

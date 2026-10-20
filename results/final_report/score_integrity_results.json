@@ -1,0 +1,10 @@
+{
+  "Applicant count": 61503,
+  "Unique applicant IDs": 61503,
+  "Missing stress probabilities": 0,
+  "Missing resilience scores": 0,
+  "Scores outside 0-100": 0,
+  "Probabilities outside 0-1": 0,
+  "Maximum score transformation error": 0.0,
+  "Prediction/threshold mismatches": 0
+}

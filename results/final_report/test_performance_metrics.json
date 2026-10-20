@@ -1,0 +1,10 @@
+{
+  "PR-AUC": 0.20622236019637097,
+  "ROC-AUC": 0.7249578953341971,
+  "Brier Score": 0.07025504261309277,
+  "Precision at selected threshold": 0.2114333753678016,
+  "Recall at selected threshold": 0.4052366565961732,
+  "F1 at selected threshold": 0.27788136178440714,
+  "Stress prevalence": 0.08072776937710356,
+  "Selected threshold": 0.10587531123103444
+}

@@ -1,0 +1,12 @@
+{
+  "primary_dataset": "Home Credit Default Risk",
+  "target": "TARGET",
+  "primary_metric": "PR-AUC",
+  "best_group_a_model_by_cv": "XGBoost",
+  "best_group_a_cv_PR_AUC": 0.16154470575576227,
+  "best_group_b_model_by_cv": "XGBoost",
+  "best_group_b_cv_PR_AUC": 0.20340425928276928,
+  "best_group_b_minus_best_group_a_cv_PR_AUC": 0.041859553527007015,
+  "locked_test_evaluation_completed": true,
+  "secondary_replication_completed": true
+}
