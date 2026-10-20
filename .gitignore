@@ -1,41 +1,24 @@
-
-# Python virtual environments
+# Python environment and cache
 .venv/
 venv/
-env/
-
-# Python cache files
 __pycache__/
 *.py[cod]
-.pytest_cache/
+.ipynb_checkpoints/
 
-# Environment variables and secrets
+# Secrets
 .env
 .env.*
 !.env.example
 
-# Jupyter temporary files
-.ipynb_checkpoints/
-
-# Raw datasets - keep local
+# Raw datasets
 data/
 
-# Large trained model files
+# Large trained models and generated feature tables
 artifacts/*.joblib
 artifacts/*.pkl
 artifacts/*.pickle
-
-# Large generated feature tables and audit data
 artifacts/*.csv
 
-# Keep model metadata and feature definitions
-!artifacts/model_metadata.json
-!artifacts/home_credit_feature_groups.json
-
-# OS and editor files
+# OS files
 .DS_Store
 Thumbs.db
-.vscode/
-
-# Optional local logs
-*.log
